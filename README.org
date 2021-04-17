@@ -1,4 +1,4 @@
-* [[https://rawgit.com/Open-Up/openup2018_01-01/master/README.html][Presentation online]]
+* [[https://rawgit.com/JackieNek/nothing_happen/main/README.html][Presentation online]]
 
 #+REVEAL_ROOT: ./
 #+OPTIONS: num:nil toc:nil
