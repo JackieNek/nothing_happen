@@ -1,4 +1,4 @@
-* [[https://rawgit.com/JackieNek/nothing_happen/main/README.html][Presentation online]]
+* [[https://jackienek.github.io/nothing_happen/README.html][Presentation online]]
 
 #+REVEAL_ROOT: ./
 #+OPTIONS: num:nil toc:nil
